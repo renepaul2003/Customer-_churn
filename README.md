@@ -1,1 +1,2 @@
-# Customer-_churn
+# Customer Churn Prediction
+Customer churn refers to the phenomenon where customers stop doing business with a company or cancel a service over a specific period. It is a critical metric for businesses, as high churn rates can lead to lost revenue and increased costs for acquiring new customers. Churn can occur for various reasons, including poor customer service, dissatisfaction with the product or service, better offers from competitors, or changes in customer needs. Reducing churn is a key focus for many businesses, and companies often use predictive models to identify at-risk customers and take proactive measures to retain them.
